@@ -2,7 +2,7 @@ Aesthetic tags can describe the appearance, bonuses, and non-aspect related powe
 
 This list is an in-progress list of aesthetic tags that have been planned for SBEPIS.
 | Tag | Description | Cost | 
-| --- | --- |
+| --- | --- | --- |
 | Harlequin | x | x |
 | Wizard | x | x |
 | Cat | x | x |
