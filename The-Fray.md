@@ -23,3 +23,6 @@ The speed of a Meter of Combat. Paced by the strongest fighter(s) as they Own Th
 
 ## Meter
 The amount of a round of Combat, evenly split into Beats based on a Time Signature. Some characters will speak in certain Meters.
+
+# Implementation
+Midis provide a flexible and customizable way to add music. 
