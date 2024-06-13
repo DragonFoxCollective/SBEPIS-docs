@@ -1,4 +1,5 @@
 A bit is one of 48 pieces of data represented by holes punched in an item card. These bits correspond to functional tags that, together, define the base functions of an item. An item with no bits is a Perfectly Generic Object, although an object with no bits may still have Aesthetic Tags. Bits are listed in no particular order.
+
 | Bit | Description |
 | --- | --- |
 | Handled | Able to be grabbed or wielded by objects with Interacting bits. |
@@ -52,21 +53,22 @@ A bit is one of 48 pieces of data represented by holes punched in an item card. 
 
 Bits are still subject to change.
 
-## Bit Sets
+# Bit Sets
+
 A bit set is able to define emergent properties of objects with certain combinations of bits. Below are some of the bit sets so far.
 
-| Original Bits | Emergent Bits |
-| --- | --- |
-| Logic + Viewing | Observing |
-| Logic + Identity | Sentience |
-| Standing + Jointed + Living | Legs/Feet |
-| Interacting + Jointed + Living | Arms/Hands |
+| Original Bits                   | Emergent Bits                |
+| ------------------------------- | ---------------------------- |
+| Logic + Viewing                 | Observing                    |
+| Logic + Identity                | Sentience                    |
+| Standing + Jointed + Living     | Legs/Feet                    |
+| Interacting + Jointed + Living  | Arms/Hands                   |
 | Standing + Jointed + Mechanized | Prosthetic/Robotic Legs/Feet |
-| Hollow + Gaseous | Aerated |
-| Aerodynamic + Handled | Thrown |
-| Aerodynamic + Liquid | Aquatic |
-| Propulsive + Hollow | Loaded |
-| Energized + Flammable | Explosive |
-| Decorative + Hollow | Clothing |
+| Hollow + Gaseous                | Aerated                      |
+| Aerodynamic + Handled           | Thrown                       |
+| Aerodynamic + Liquid            | Aquatic                      |
+| Propulsive + Hollow             | Loaded                       |
+| Energized + Flammable           | Explosive                    |
+| Decorative + Hollow             | Clothing                     |
 
 Bit sets are also, naturally, subject to change.
