@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "SBEPIS Wiki",
   "exportPreset": "website",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\iamjw\\Documents\\SBEPIS Wiki Pages",
+  "exportPath": "C:\\\\Users\\iamjw\\Documents\\SBEPIS Wiki\\docs",
   "filesToExport": [
     [
       "all"
