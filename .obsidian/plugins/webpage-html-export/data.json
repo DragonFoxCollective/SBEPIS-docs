@@ -46,7 +46,12 @@
   "exportPath": "C:\\\\Users\\iamjw\\Documents\\SBEPIS Wiki\\docs",
   "filesToExport": [
     [
-      "all"
+      "Aesthetic Tags.md",
+      "Alchemy.md",
+      "Bits.md",
+      "Combat.md",
+      "Index.md",
+      "The Fray.md"
     ]
   ]
 }
