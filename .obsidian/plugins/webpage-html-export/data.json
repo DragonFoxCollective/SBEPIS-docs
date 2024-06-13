@@ -28,7 +28,7 @@
   "addRSSFeed": true,
   "siteURL": "",
   "authorName": "",
-  "vaultTitle": "SBEPIS Wiki",
+  "vaultTitle": "SBEPIS Documentation",
   "exportPreset": "website",
   "openAfterExport": false,
   "graphAttractionForce": 1,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\iamjw\\Documents\\SBEPIS Wiki\\docs",
+  "exportPath": "C:\\\\Users\\iamjw\\Documents\\SBEPIS Docs\\docs",
   "filesToExport": [
     [
       "Aesthetic Tags.md",
