@@ -28,9 +28,9 @@
   "addRSSFeed": true,
   "siteURL": "",
   "authorName": "",
-  "vaultTitle": "SBEPIS.wiki",
+  "vaultTitle": "SBEPIS Wiki",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,8 +43,10 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "",
+  "exportPath": "C:\\\\Users\\iamjw\\Documents\\SBEPIS Wiki Pages",
   "filesToExport": [
-    []
+    [
+      "all"
+    ]
   ]
 }

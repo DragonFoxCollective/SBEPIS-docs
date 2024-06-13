@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04b0c39c3ce705ed",
+        "id": "8f8958aaf648f9b2",
         "type": "tabs",
         "children": [
           {
-            "id": "2d231d974ea29340",
+            "id": "00b8ef365c7f41a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Alchemy.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alchemy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alchemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,13 +121,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Alchemy.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "a4cad5d584dcc4d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -143,17 +146,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2d231d974ea29340",
+  "active": "00b8ef365c7f41a0",
   "lastOpenFiles": [
-    "Aesthetic Tags.md",
-    "Combat.md",
     "The Fray.md",
-    "Alchemy.md",
-    "Bits.md",
     "Home.md",
+    "Combat.md",
+    "Bits.md",
+    "Alchemy.md",
+    "Aesthetic Tags.md",
+    "Excalidraw/Drawing 2024-06-13 16.38.24.excalidraw.md",
+    "Excalidraw",
+    "pages/lib/metadata.json",
+    "pages/lib/media/874d8b8e340f75575caa.svg",
+    "pages/lib/media/3d6c1bdc4d87cde4de67.svg",
+    "pages/lib/media",
+    "pages/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "pages/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "pages/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "pages/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "pages/lib/fonts/94f2f163d4b698242fef.otf",
+    "pages/lib/fonts/72505e6a122c6acd5471.woff2",
+    "pages/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "The-Fray.md",
+    "Aesthetic-Tags.md",
     "Untitled.canvas"
   ]
 }
