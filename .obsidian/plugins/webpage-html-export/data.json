@@ -26,8 +26,8 @@
   "addGraphView": true,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "",
-  "authorName": "",
+  "siteURL": "https://dragon-fox-collective.github.io/SBEPIS-docs/",
+  "authorName": "Dragon & Fox Collective",
   "vaultTitle": "SBEPIS Documentation",
   "exportPreset": "website",
   "openAfterExport": false,
@@ -46,12 +46,13 @@
   "exportPath": "C:\\\\Users\\iamjw\\Documents\\SBEPIS Docs\\docs",
   "filesToExport": [
     [
-      "Alchemy/Tag.md",
-      "Alchemy/Alchemy.md",
-      "Alchemy/Bit.md",
+      "Alchemy",
+      "Entities",
+      "The Fray",
       "Combat.md",
       "Index.md",
-      "The Fray/The Fray.md"
+      "Milestone 1 Goals.canvas",
+      "Milestone 2 Goals.canvas"
     ]
   ]
 }
