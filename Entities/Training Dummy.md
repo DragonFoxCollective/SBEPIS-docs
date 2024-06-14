@@ -1,0 +1,1 @@
+- Has a shield that can block [[Combat#Accuracy|Directional Attacks]]

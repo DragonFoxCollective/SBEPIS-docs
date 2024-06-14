@@ -1,0 +1,1 @@
+Any action a [[Combat|combatant]] takes is considered a Note. Light Attacks are represented by quarter notes (one [[Beat]]), Heavy Attacks are half notes (two [[Beat|Beats]]), and Special Attacks are full notes (one [[Bar]]).

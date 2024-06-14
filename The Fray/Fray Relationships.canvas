@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"49bd4a7078e44615","type":"text","text":"# The Fray\n\nThe combat system","x":-1060,"y":-90,"width":250,"height":120},
+		{"id":"b5a522c07031b99b","type":"text","text":"# Rhythm\n\nRegularly recurring patterns and accents such as bars and beats","x":-620,"y":-250,"width":250,"height":160},
+		{"id":"8a2419f627023b03","type":"text","text":"## Time Players","x":-560,"y":30,"width":250,"height":70},
+		{"id":"2926eebefda913e8","type":"text","text":"# Genre\n\nWhat instruments make up the song","x":-620,"y":240,"width":250,"height":140},
+		{"id":"f55156af98ff6909","type":"text","text":"# Note\n\nOne action of combat","x":-95,"y":140,"width":250,"height":120},
+		{"id":"43d3c9336acf2cfa","type":"text","text":"# Time Signature\n\nHow long a bar lasts in beats (The denominator is always 4)","x":-95,"y":280,"width":250,"height":200},
+		{"id":"f1f657ccd3f33416","type":"text","text":"# Tempo\n\nHow long a beat lasts in seconds","x":-95,"y":-90,"width":250,"height":140},
+		{"id":"3859703b2317786c","type":"text","text":"# Bar\n\nOne round of combat, divided into beats\n","x":-95,"y":-250,"width":250,"height":140},
+		{"id":"dc729b8744859009","type":"text","text":"# Beat\n\nOne turn of combat","x":-95,"y":-400,"width":250,"height":120}
+	],
+	"edges":[
+		{"id":"8d2539711064c768","fromNode":"b5a522c07031b99b","fromSide":"right","toNode":"dc729b8744859009","toSide":"left"},
+		{"id":"7b4d91909198a09b","fromNode":"b5a522c07031b99b","fromSide":"right","toNode":"f1f657ccd3f33416","toSide":"left"},
+		{"id":"06388807d7a915dc","fromNode":"2926eebefda913e8","fromSide":"right","toNode":"f55156af98ff6909","toSide":"left"},
+		{"id":"c8c4cc378f310dd6","fromNode":"49bd4a7078e44615","fromSide":"right","toNode":"2926eebefda913e8","toSide":"left"},
+		{"id":"21d3cdbd191fd6a5","fromNode":"49bd4a7078e44615","fromSide":"right","toNode":"b5a522c07031b99b","toSide":"left"},
+		{"id":"ad375a444dcf10de","fromNode":"8a2419f627023b03","fromSide":"right","toNode":"f1f657ccd3f33416","toSide":"left","label":"affect"},
+		{"id":"69b8f9f2b728dd6d","fromNode":"2926eebefda913e8","fromSide":"right","toNode":"43d3c9336acf2cfa","toSide":"left"}
+	]
+}

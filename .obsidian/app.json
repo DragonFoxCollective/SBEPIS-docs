@@ -1,1 +1,7 @@
-{}
+{
+  "alwaysUpdateLinks": false,
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "docs/"
+  ]
+}

@@ -1,4 +1,4 @@
-A bit is one of 48 pieces of data represented by holes punched in an item card. These bits correspond to functional tags that, together, define the base functions of an item. An item with no bits is a Perfectly Generic Object, although an object with no bits may still have Aesthetic Tags. Bits are listed in no particular order.
+A bit is one of 48 pieces of data represented by holes punched in an item card. These bits correspond to attributes that, together, define the base functions of an item. An item with no bits is a Perfectly Generic Object, although an object with no bits may still have [[Tag|tags]]. Bits are listed in no particular order.
 
 | Bit | Description |
 | --- | --- |

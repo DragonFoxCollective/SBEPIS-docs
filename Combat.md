@@ -1,8 +1,8 @@
-A generated event involving at least one aggressor, one target, and a combat goal. Combat participation is optional. Combat will begin when initiated by a single party, and combatants involved will be assigned depending on various traits. See Combatant. Combat will not be restricted to Event Chunks, but will aim to fit within them. When an entity becomes Aware of an aggressor, they will be prompted to Strife or Abscond.
+A generated event involving at least one aggressor, one target, and a combat goal. Combat participation is optional. Combat will begin when initiated by a single party, and combatants involved will be assigned depending on various traits. See Combatant. Combat will not be restricted to [[Event Chunk|Event Chunks]], but will aim to fit within them. When an entity becomes aware of an aggressor, they will be prompted to [[#Strife]] or [[#Abscond]].
 
-[[The Fray]] will inform how combat is approached by setting the pace and difficulty of a battle. The Fray will have both Tempo and Metre. Enemies will tend to attack on Meter, although they may have different Tempos. Swarmers will adjust the Speed of Tempo according to factional relationships. Commanders can set the Metre of Tempo for the Swarmers they lead, such as Waltz Time or Common Time. 
+[[The Fray]] will inform how combat is approached by setting the pace and difficulty of a battle. Enemies will tend to attack on [[Beat]], although they may have different [[Tempo|Tempos]]. [[#Swarmers]] will adjust the Tempo according to factional relationships. [[#Commanders]] can set the Tempo for the Swarmers they lead, such as Waltz Time or Common Time.
 
-Projectile weapons will use Ammo if available, but you can also get an upgrade to create Ammunition from your Grist stores. Projectile weapons only shoot when using piercing attacks. Directional attacks would be swinging the gun. (Edge case I got caught up on: A rocket launcher will shoot when using a non-directional attack. Projectiles can change course– But this would be described elsewhere, not determined actively by the player.) Imagine directly hitting someone vs happening to hit someone indirectly.
+Projectile weapons will use Ammo if available, but you can also get an upgrade to create Ammunition from your [[Grist]] stores. Projectile weapons only shoot when using piercing attacks. Directional attacks would be swinging the gun. (Edge case I got caught up on: A rocket launcher will shoot when using a non-directional attack. Projectiles can change course-- But this would be described elsewhere, not determined actively by the player.) Imagine directly hitting someone vs happening to hit someone indirectly.
 
 # Momentum/Movement
 
@@ -19,7 +19,7 @@ Every weapon has light, heavy, and special attacks.
 
 # Accuracy
 
-+ Directional Attacks- 27 variations (Forward, Backward, Left, Right, Up, Down, All Diagonals and Not Moving)
++ Directional Attacks have 27 variations (Forward, Backward, Left, Right, Up, Down, All Diagonals and Not Moving)
 + Parts have Gel Viscosity that can be depleted to deal a crit. If a crit on a 0 GV part kills the target, a gib system will be activated.
 + “Lock on” function will lock on to target closest to center of screen, prioritizing Boss > Commander > Swarmer
 + Which hit box do you hit, and how close to the center of the hit box are you? 
@@ -31,17 +31,20 @@ Every weapon has light, heavy, and special attacks.
 ## Commander
 
 The Commander is, for all intents and purposes, a boss within a combat scenario. Because bosses will be diverse, the play style efficiency will depend on the boss. Commanders within an event chunk will have levels of importance. Lower importance means lower chances of successfully commanding a swarm. High importance increases likelihood of command success, but also… Commander tactics in battle will be determined by:
-+ Genre (The Fray system)
++ [[The Fray#Genre|Genre]]
 + Personal Goals
 + Politics
 + Team Numbers or Ratios
+
 ## Swarmers
 
-Swarmers will be the bulk of enemy teams. The Metre of Swarmers is controlled by the Commanders controlling them, although the Speed is usually dictated by Factional Relationship to PC. Swarmers will form clouds of AI groups. When in Combat, Swarmers will tend to group together. If a Commander is present, Swarmer AI will be dependent on Commander Tactics. Limited AI with seeded randomness
-+ Imps do not carry items but will have mutations. Faction leader is the Denizen.
+Swarmers will be the bulk of enemy teams. The [[The Fray#Rhythm|Rhythm]] of Swarmers is controlled by the Commanders controlling them, although the [[Tempo]] is usually dictated by Factional Relationship to PC. Swarmers will form clouds of AI groups. When in Combat, Swarmers will tend to group together. If a Commander is present, Swarmer AI will be dependent on Commander Tactics. Limited AI with seeded randomness.
+
+Examples of Swarmers include:
++ Imps: Do not carry items but will have mutations. Faction leader is the Denizen.
 + Basilisks, Liches, Giclopses, Ogres
-+ Carapacians - Equipment loadouts AND mutations
-+ Consorts do not mutate without Commander Intervention. Carry items and equipment loadouts.
++ Carapacians: Equipment loadouts AND mutations
++ Consorts: Do not mutate without Commander Intervention. Carry items and equipment loadouts.
 
 # Combat Loop
 
@@ -49,22 +52,34 @@ Combat begins when both parties are aware of an encounter. Teams are generated d
 
 # Strife choice
 
-Key choice made by evaluation of enemies, factions, power, tempo, etc
+Key choice made by evaluation of enemies, factions, power, tempo, etc.
 
-Abjure - What’s the goal of abjuration?
+A combat event will conclude with an end condition, either the death of the aggressor party or target party, the satiation of the aggressor party (calmed) or the target party (spared), fleeing, knock-out.
++ Fleeing - Extra damage against fleeing targets
++ Knocked Out - Attacks kill knocked out targets
+
+## Abjure
+
+What’s the goal of abjuration?
+
 + Dialogue - Dialogue abjuration will involve a defensive playstyle and quick dialogue choices. The goal of this must also be determined, but it can usually be assumed the goal is non-violent resolution and higher relationship and factional relationship.
 + Knockout - Goal of this is non-lethal defeat of enemies. Enemies will not be killed when defeated. This can be for a variety of tactical reasons.
-Abscond - Tactical escapes, enemies will give chase! What’s the best way to leave?
+
+## Abscond
+
+Tactical escapes, enemies will give chase! What’s the best way to leave?
+
 + Will the enemy type give chase? Are you a target?
 + What abilities do enemies have compared to players? Teleports?
 + Is there a team looking for you now? Will this affect factional relationships? Regular relationships? Increase importance?
-Strife - The goal is to kill, the question is how?
+
+## Strife
+
+The goal is to kill, the question is how?
+
 + Team Numbers - Are we outnumbered? By how much?
 + Presence of Commanders - Will the commanders also be killed? (combat stance related,) Are the enemies organized or disorganized?
-+ Enemy types– What types of damage will be most effective?
-A combat event will conclude with an end condition, either the death of the aggressor party or target party, the satiation of the aggressor party (calmed) or the target party (spared), fleeing, knock-out
-+ Fleeing - Extra damage against fleeing targets
-+ Knocked Out - Attacks kill knocked out targets
++ Enemy types - What types of damage will be most effective?
 
 # Teams and Combatants
 
