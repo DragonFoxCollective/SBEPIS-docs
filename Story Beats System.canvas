@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"84425d5f9a89b431","type":"text","text":"Story Arcs\n\nLonger strings of events and interactions with a character or relationship that show important relationship defining interactions or major character change.","x":-120,"y":-239,"width":240,"height":341},
+		{"id":"f85bb4340533979e","x":180,"y":-239,"width":250,"height":341,"type":"text","text":"Story Line\nCollections of Beats and Arcs that define a major story being told. Comparing incomplete story lines to what Story Beats and Story Arcs have been complete allows AI and timeline exploration to be influenced for non-player controlled actions, dialogue and events."},
+		{"id":"0b45174a18c8bfc4","x":-354,"y":-500,"width":234,"height":203,"type":"text","text":"Story Beats\n\nEvents in dialogue or exploration that mark important interactions with a character or relationship."},
+		{"id":"c27f65d750bfcbce","x":-660,"y":-500,"width":255,"height":602,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"9b237c92b31d2b4e","fromNode":"0b45174a18c8bfc4","fromSide":"bottom","toNode":"84425d5f9a89b431","toSide":"left"},
+		{"id":"4c1161021511dea3","fromNode":"0b45174a18c8bfc4","fromSide":"right","toNode":"f85bb4340533979e","toSide":"top"},
+		{"id":"2063d8fbd384f04b","fromNode":"84425d5f9a89b431","fromSide":"right","toNode":"f85bb4340533979e","toSide":"left"}
+	]
+}
