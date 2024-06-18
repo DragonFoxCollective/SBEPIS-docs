@@ -6,12 +6,12 @@
 		{"id":"e50d8d559d6a2d09","type":"text","text":"# Goals\n1. [[Dialogue]]\n2. [[Combat]]\n\t1. [[Combat#Momentum/Movement|Movement-based Combat]]\n3. [[The Fray]]'s [[The Fray#Rhythm|Rhythm]]","x":-210,"y":-140,"width":380,"height":200},
 		{"id":"3ee799ebc3efcfa8","type":"text","text":"Light/heavy attacks that follow the timing with a different number of beats","x":260,"y":820,"width":280,"height":100},
 		{"id":"dbbf7b6f25867fd5","type":"file","file":"Entities/Training Imp.md","x":60,"y":140,"width":400,"height":400},
-		{"id":"7c022f304a436086","type":"text","text":"Heavy attacks are a half note","x":606,"y":875,"width":294,"height":60},
-		{"id":"65f5a756d94ebd38","type":"text","text":"Light attacks are a quarter note","x":608,"y":803,"width":292,"height":60},
-		{"id":"53ed7b8cce2061bc","type":"text","text":"4/4","x":606,"y":590,"width":100,"height":60},
-		{"id":"450fbab0782b6bad","type":"text","text":"3/4","x":606,"y":669,"width":100,"height":60},
 		{"id":"b9837e06a8482b8b","type":"text","text":"Recovery animation takes the rest of the current beat","x":260,"y":935,"width":280,"height":85},
-		{"id":"15f4879a3a18c04b","type":"file","file":"The Fray/The Fray.md","x":-220,"y":620,"width":400,"height":400}
+		{"id":"15f4879a3a18c04b","type":"file","file":"The Fray/The Fray.md","x":-220,"y":620,"width":400,"height":400},
+		{"id":"7c022f304a436086","type":"text","text":"Heavy attacks are a half note","x":600,"y":875,"width":294,"height":60},
+		{"id":"65f5a756d94ebd38","type":"text","text":"Light attacks are a quarter note","x":600,"y":803,"width":294,"height":57},
+		{"id":"53ed7b8cce2061bc","type":"text","text":"4/4","x":620,"y":590,"width":100,"height":60},
+		{"id":"450fbab0782b6bad","type":"text","text":"3/4","x":620,"y":650,"width":100,"height":60}
 	],
 	"edges":[
 		{"id":"60b1225feb87ab03","fromNode":"15f4879a3a18c04b","fromSide":"right","toNode":"c9cc265b66bbe194","toSide":"left"},

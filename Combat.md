@@ -20,7 +20,7 @@ Every weapon has light, heavy, and special attacks.
 # Accuracy
 
 + Directional Attacks have 27 variations (Forward, Backward, Left, Right, Up, Down, All Diagonals and Not Moving)
-+ Parts have Gel Viscosity that can be depleted to deal a crit. If a crit on a 0 GV part kills the target, a gib system will be activated.
++ Parts have Gel Viscosity that can be depleted to deal a crit. If a crit on a 0 GV part destroys the limb/joint, potentially killing the target, a gib system will be activated.
 + “Lock on” function will lock on to target closest to center of screen, prioritizing Boss > Commander > Swarmer
 + Which hit box do you hit, and how close to the center of the hit box are you? 
 + A directional attack is more likely to chop off vs a non directional attack, which is more likely to pierce through
