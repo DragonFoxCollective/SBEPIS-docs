@@ -1,4 +1,4 @@
-Alchemy is STUPID!!!
+Alchemy is a core mechanic within SBEPIS.
 
 In SBEPIS, items are stored within item cards. Items have identifiers correlating to when a player “discovered” the recipe.
 
