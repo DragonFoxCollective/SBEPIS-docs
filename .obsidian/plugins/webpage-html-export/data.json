@@ -30,7 +30,7 @@
   "authorName": "Dragon & Fox Collective",
   "vaultTitle": "SBEPIS Documentation",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\fmoli\\Documents\\SBEPIS-docs\\docs",
+  "exportPath": "C:\\\\Users\\Hellh\\Documents\\SBEPIS-docs\\docs",
   "filesToExport": [
     [
       "Alchemy",

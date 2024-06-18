@@ -1,4 +1,4 @@
-Alchemy is a core mechanic within SBEPIS.
+Alchemy is a core mech
 
 In SBEPIS, items are stored within item cards. Items have identifiers correlating to when a player “discovered” the recipe.
 
