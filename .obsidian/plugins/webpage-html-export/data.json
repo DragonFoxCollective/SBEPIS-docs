@@ -30,7 +30,7 @@
   "authorName": "Dragon & Fox Collective",
   "vaultTitle": "SBEPIS Documentation",
   "exportPreset": "website",
-  "openAfterExport": true,
+  "openAfterExport": false,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
