@@ -1,8 +1,8 @@
-The Body System describes several features surrounding entity models. The core idea of the system is to have an assembly of parts and joints form 
+The Body System describes several features surrounding entity models. The core idea of the system is to have an assembly of parts and joints form a character model that can be added upon, changed, or torn apart in an elegant and flexible way. A body is made up of different types of parts, Boney Landmarks and Connector Joints. 
 
 Gel Viscosity
 
-Connectors are "joint" pieces. These pieces can be cut through with different ease.
+Connectors are "joint" pieces. These pieces can be cut through with different amounts of ease. Boney Landmarks are rigid parts.
 
 4 heads
 2 Necks (Long/Short)
