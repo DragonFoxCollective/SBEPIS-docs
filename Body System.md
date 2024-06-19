@@ -1,3 +1,9 @@
+The Body System describes several features surrounding entity models. The core idea of the system is to have an assembly of parts and joints form 
+
+Gel Viscosity
+
+Connectors are "joint" pieces. These pieces can be cut through with different ease.
+
 4 heads
 2 Necks (Long/Short)
 3 Torsos (Upper, Middle, Lower)
