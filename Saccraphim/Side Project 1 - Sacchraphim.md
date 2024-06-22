@@ -4,4 +4,4 @@ Sacchraphim will be the first side project to develop and test core SBEPIS syste
 ![[SCHRM2.png]]
 ![[SCHRM4.png]]
 ![[SCHRM5.png]]
-![[SCHRM0.png]]
+![[SCHRM0.png]]![[SpecBio_1.png]]![[SpecBio_2.png]]
