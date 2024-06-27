@@ -35,6 +35,9 @@ systems are done growing, with communicative methods becoming more and more vari
 ![Concept Art Text:]
 >Me as baby.
 >A Sacchraphim that has just matured
+
+Energy = Radiation Biomass = Biomass
+
 ## Coloration
 _____
 
@@ -130,6 +133,11 @@ The Sacchraphim are an opportunistic species, as such it’s very common to find
 ![[SCHRM3.png]]
 ![Concept Art Text:]
 >The fashion police have been rooting out Sacchraphim confectionaries for an eternity and still can't seem to eradicate this devastation to the timeline.
+
+### Teacher role Place holder
+
+The last sacchraphim in that generation will become a teacher It’s a shameful role Education Every class is a massive university lecture They love consuming deep space radiation It’s how they produce so many young grow so quickly 
+
 ## Markings
 __________
 
