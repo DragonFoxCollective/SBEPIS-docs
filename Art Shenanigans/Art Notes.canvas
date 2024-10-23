@@ -1,27 +1,18 @@
 {
 	"nodes":[
 		{"id":"02fdcce9d5f75cc9","type":"group","x":-780,"y":-1400,"width":1460,"height":1200,"color":"5","label":"SPEPIS"},
-		{"id":"d14c88153f86adbd","type":"group","x":-780,"y":-120,"width":1142,"height":1480,"color":"#ff0095","label":"Sacchraphim"},
 		{"id":"c82fdb5f3b4f046e","type":"group","x":-230,"y":-1296,"width":900,"height":1039,"label":"SPEPIS Art Style Research"},
 		{"id":"5dc2769f50e58a63","type":"group","x":-230,"y":-860,"width":900,"height":603,"label":"Dreamer  Pyjamas"},
-		{"id":"985db4be4cd1dfbb","type":"group","x":-400,"y":760,"width":680,"height":560,"color":"4","label":"Notes:"},
 		{"id":"14071dac931c85fd","type":"group","x":-580,"y":-774,"width":350,"height":517,"label":"Body System"},
-		{"id":"66fcc8ad1d10744f","type":"text","text":"# Artistic Pull Suggestions: \n## Skull\n    - Wax skulls\n    - Gummy Bears\n    - Sea glass\n    - Valentines candy\n## Paints\n    - Art Deco\n    - Art Noveau\n    \n    _Paint Colors_\n    \n    - Kimono Pallettes\n    - Car Color Schemes\n    \n## Actual body\n    \n    - Emerald Tree Boa\n    - Moray Eels\n    - Mandarin Fish\n    \n## Spores\n    \n    - Gushers\n    - Fruit Rollups\n    \n## _Color palettes (Remember 3 Colors!!)_\n    \n    - HyperPop\n    - Pop Art\n    - Rave\n    - Blacklight\n    - Desertboards\n    - Poptarts\n    - Fruit Rollup\n    - CYMK\n    - BlackOpal\n    - Oil Slick\n    - Gothic Rainbow\n    - Holographic foil\n    - Arcade Carpet\n    - Cyberpunk\n    - Vaporwave\n    - Candy Gore","x":-760,"y":-100,"width":340,"height":1420,"color":"4"},
-		{"id":"105b0df96f6b8d49","type":"text","text":"To Do:\n- Add Teacher Spec Bio\n- Research Character Design Elements (Paints patterns)\n- Skull variants explorations\n- Limb Explorations: \n    - Wings\n    - Tentacles\n    - Arms\n    - Legs\n    - Flippers","x":-400,"y":-100,"width":260,"height":420,"color":"4"},
-		{"id":"a9edaf0b5de9da4b","type":"file","file":"Saccraphim/Sacchraphim Spectulative Biology.md","x":-350,"y":840,"width":520,"height":440,"color":"2"},
-		{"id":"74ea6a3132babd74","type":"text","text":"Team Requests:\n(If you have suggestions or tasks I don't have in the to do list for me to do please put them here)","x":-390,"y":480,"width":670,"height":200,"color":"4"},
-		{"id":"ead4da9e3b6a9192","type":"file","file":"Saccraphim/Side Project 1 - Sacchraphim.md","x":-80,"y":-80,"width":400,"height":460},
 		{"id":"d2448ebb513cc949","type":"text","text":"Team Requests:\n(If you have suggestions or tasks I don't have in the to do list for me to do please put them here)","x":-760,"y":-1341,"width":402,"height":344,"color":"5"},
+		{"id":"3a8b175b48027cc1","type":"text","text":"Industry:\n- Pesterquest\n- Hiveswap\n- Atlas (P5)\n- Hoyoverse","x":-210,"y":-1279,"width":186,"height":200},
+		{"id":"dade3477f39893a1","type":"text","text":"Adjacent:\n- Homestuck 2 Adults","x":-24,"y":-1279,"width":240,"height":126},
+		{"id":"af9f3b854ddae8ca","type":"text","text":"REMEMBER:","x":-540,"y":-731,"width":250,"height":60},
+		{"id":"f8334830a3379b09","type":"text","text":"- Anima\n- Machina\n- Pneuma\n- Vascula\n- Structura\n- Incorporea\n- Qualia\n- Identitia\n- Anathema\n- Confidentia\n- Gaia\n- Determina","x":-540,"y":-671,"width":250,"height":379},
 		{"id":"28fe0d54e3c67724","type":"text","text":"To do:\n\n- Materials\n- Colors\n- Shapes\n- Patterns\n- Fashion History Research","x":-186,"y":-817,"width":280,"height":220,"color":"6"},
 		{"id":"8b18c044759d7e57","type":"text","text":"These outfits should look ethereal and play into cheesy old school fairytale and sleepover aesthetics!","x":130,"y":-817,"width":464,"height":76,"color":"2"},
 		{"id":"c9686f5b1c1a8077","type":"file","file":"Art Shenanigans/Dreamer Outfits.md","x":250,"y":-680,"width":400,"height":400,"color":"2"},
-		{"id":"3a8b175b48027cc1","type":"text","text":"Industry:\n- Pesterquest\n- Hiveswap\n- Atlas (P5)\n- Hoyoverse","x":-210,"y":-1279,"width":186,"height":200},
-		{"id":"03fce76926368b1b","type":"text","text":"- Hiveswap: Backgrounds in ACT 1 and the concept art for ACT 2, Specific assets\n- PesterQuest: The character sprites, somewhere between anime and homestuck's art\n- Atlas: But softer","x":-210,"y":-1079,"width":560,"height":163},
-		{"id":"dade3477f39893a1","type":"text","text":"Adjacent:\n- Homestuck 2 Adults","x":-24,"y":-1279,"width":240,"height":126},
-		{"id":"af9f3b854ddae8ca","type":"text","text":"REMEMBER:","x":-540,"y":-731,"width":250,"height":60},
-		{"id":"f8334830a3379b09","type":"text","text":"- Anima\n- Machina\n- Pneuma\n- Vascula\n- Structura\n- Incorporea\n- Qualia\n- Identitia\n- Anathema\n- Confidentia\n- Gaia\n- Determina","x":-540,"y":-671,"width":250,"height":379}
+		{"id":"03fce76926368b1b","type":"text","text":"- Hiveswap: Backgrounds in ACT 1 and the concept art for ACT 2, Specific assets\n- PesterQuest: The character sprites, somewhere between anime and homestuck's art\n- Atlas: But softer","x":-210,"y":-1079,"width":560,"height":163}
 	],
-	"edges":[
-		{"id":"f7c95864e2a0713d","fromNode":"105b0df96f6b8d49","fromSide":"bottom","toNode":"74ea6a3132babd74","toSide":"top"}
-	]
+	"edges":[]
 }
