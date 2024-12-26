@@ -31,6 +31,14 @@ An example of a polyrhythm would be when one player has a Time Signature of 4/4 
 
 Fighting Off-Rhythm serves the purpose of shifting control of the Fray. If you attack an opponent Off-Rhythm, it can force them to respond in ways that shake them into fighting in a different [[Time Signature]] or [[Tempo]] than they would be when fighting in or controlling the Fray. The more an opponent fights Off-Rhythm, the more they lose control of the Fray. After reaching a certain threshold, this will transfer control to the next most Rhythmic combatant. This makes those who do not have a good sense of Rhythm out of play still serve an important role in shaking up the battlefield.
 
+# Motifs
+
+Motifs are sequences of notes unique to particular characters or narrative themes. They can be composed together to make unique tracks focusing on a particular event or battle.
+
 # Implementation Details
 
-Midis provide a flexible and customizable way to add music.
+The audio engine features a live synthesizer with soundfonts and MIDI-like note sequences. Sound effects caused by actions are injected directly into the audio engine, on-beat if close enough.
+
+There does need to be a visual indicator for the beat, somehow.
+
+Accessibility options will include a metronome.
