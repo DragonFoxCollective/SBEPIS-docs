@@ -1,4 +1,4 @@
-A generated event involving at least one aggressor, one target, and a combat goal. Combat participation is optional. Combat will begin when initiated by a single party, and [[combatants]] involved will be assigned depending on various traits. Combat will not be restricted to [[Event Chunk|Event Chunks]], but will aim to fit within them. When an entity becomes aware of an aggressor, they will be prompted to [[#Strife]] or [[#Abscond]].
+A generated event involving at least one aggressor, one target, and a combat goal. Combat participation is optional. Combat will begin when initiated by a single party, and [[#Teams and Combatants|combatants]] involved will be assigned depending on various traits. Combat will not be restricted to [[Event Chunk|Event Chunks]], but will aim to fit within them. When an entity becomes aware of an aggressor, they will be prompted to [[#Strife]] or [[#Abscond]].
 
 [[The Fray]] will inform how combat is approached by setting the pace and difficulty of a battle. Enemies will tend to attack on [[Beat]], although they may have different [[Tempo|Tempos]]. [[#Swarmers]] will adjust the Tempo according to factional relationships. [[#Commanders]] can set the Tempo for the Swarmers they lead, such as Waltz Time or Common Time.
 
@@ -16,6 +16,10 @@ Every weapon has light, heavy, and special attacks.
 + Light attacks (for projectiles, this is shooting), they’re always forward facing/ cannot be directional
 + Heavy attacks will be directional. They can influence direction while attacking, unlike special attacks, which only account for direction, not change it.
 + Combinations of bits will assign a weapon a strife specibus type, which thus determines the function of light/heavy/special attacks
+
+## Stances
+
+The player has a radial picker based on Horizons that allows them to switch between contexts for weapons, weapon firing modes, and [[Dialogue]].
 
 # Accuracy
 

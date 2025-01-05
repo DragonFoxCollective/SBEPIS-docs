@@ -6,7 +6,7 @@ The Fray's mechanics are divided into two categories, [[#Rhythm]] and [[#Genre]]
 
 # Rhythm
 
-Rhythm is the means of tracking how closely the player’s [[Note|Notes]] match the [[Tempo]] and [[Time Signature|Time Signatures]] of a [[Bar]]. Keeping Rhythm does not require attacking exactly on the [[Beat]] of the Fray, but following the Rhythm rewards a bonus to [[Mana Regeneration]] and [[Gel Viscosity Damage]].
+Rhythm is the means of tracking how closely the player’s [[Note|Notes]] match the [[Tempo]] and [[Time Signature|Time Signatures]] of a [[Bar]]. Keeping Rhythm does not require attacking exactly on the [[Beat]] of the Fray, but following the Rhythm rewards a bonus to [[Mana Regeneration]] and [[Gel Viscosity]] Damage.
 
 Rhythm's mechanics include:
 - [[Beat|Beats]]: One turn of Combat

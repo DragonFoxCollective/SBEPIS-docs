@@ -1,0 +1,3 @@
+# Installation
+
+During the installation process, the player must answer a series of questions that determines dream moon, land challenge, and core character traits. This was originally planned to be the tutorial for the dream journal, but you can't exactly determine the moon when you're on the moon...
