@@ -1,14 +1,19 @@
 {
   "vaultName": "SBEPIS Documentation",
-  "lastExport": 1718738675174,
+  "lastExport": 1736052118935,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "AI/Events.md",
+    "AI/Values.md",
     "Alchemy/Alchemy.md",
     "Alchemy/Bit.md",
     "Alchemy/Tag.md",
+    "Art Shenanigans/Art Notes.canvas",
+    "Art Shenanigans/Art Style Overall.md",
+    "Art Shenanigans/Dreamer Outfits.md",
     "Entities/Training Dummy.md",
     "Entities/Training Imp.md",
     "The Fray/Bar.md",
@@ -18,12 +23,21 @@
     "The Fray/Tempo.md",
     "The Fray/The Fray.md",
     "The Fray/Time Signature.md",
+    "Body System.md",
     "Classpect Powers.excalidraw",
     "Combat.md",
+    "Dialogue.md",
+    "Exile Terminals.md",
+    "Grist.md",
     "Index.md",
+    "Kiddie Camper Handysash.md",
     "Milestone 1 Goals.canvas",
     "Milestone 2 Goals.canvas",
+    "Roleplay.md",
+    "SBURB.md",
     "Story Beats System.canvas",
+    "Sylladex.md",
+    "Terrain.md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -39,7 +53,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -71,7 +84,6 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/media/3d6c1bdc4d87cde4de67.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -89,97 +101,97 @@
   ],
   "fileInfo": {
     "Combat.md": {
-      "modifiedTime": 1718738572140,
-      "sourceSize": 6873,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 7042,
       "exportedPath": "combat.html",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
@@ -191,103 +203,103 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1718738675174,
-      "sourceSize": 8482,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 14221,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1718738675174,
-      "sourceSize": 1231,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 1884,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1718738675174,
-      "sourceSize": 130183,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 131021,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1718738675174,
-      "sourceSize": 1676,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 1673,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1718738675174,
+      "modifiedTime": 1736052118935,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "Index.md": {
-      "modifiedTime": 1718738572140,
-      "sourceSize": 850,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 1068,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "Alchemy/Alchemy.md": {
-      "modifiedTime": 1718738434487,
-      "sourceSize": 1946,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 1951,
       "exportedPath": "alchemy/alchemy.html",
       "dependencies": []
     },
     "Alchemy/Bit.md": {
-      "modifiedTime": 1718738572140,
+      "modifiedTime": 1736052118935,
       "sourceSize": 9230,
       "exportedPath": "alchemy/bit.html",
       "dependencies": []
@@ -341,8 +353,8 @@
       "dependencies": []
     },
     "The Fray/The Fray.md": {
-      "modifiedTime": 1718738572140,
-      "sourceSize": 2305,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 2740,
       "exportedPath": "the-fray/the-fray.html",
       "dependencies": []
     },
@@ -353,7 +365,7 @@
       "dependencies": []
     },
     "Milestone 1 Goals.canvas": {
-      "modifiedTime": 1718738572140,
+      "modifiedTime": 1736052118935,
       "sourceSize": 3002,
       "exportedPath": "milestone-1-goals.html",
       "dependencies": []
@@ -365,15 +377,99 @@
       "dependencies": []
     },
     "Story Beats System.canvas": {
-      "modifiedTime": 1718738572140,
+      "modifiedTime": 1736052118935,
       "sourceSize": 1338,
       "exportedPath": "story-beats-system.html",
       "dependencies": []
     },
     "Classpect Powers.excalidraw": {
-      "modifiedTime": 1718738434487,
-      "sourceSize": 4780940,
+      "modifiedTime": 1736052118935,
+      "sourceSize": 4688071,
       "exportedPath": "classpect-powers.html",
+      "dependencies": []
+    },
+    "AI/Events.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 321,
+      "exportedPath": "ai/events.html",
+      "dependencies": []
+    },
+    "AI/Values.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 2046,
+      "exportedPath": "ai/values.html",
+      "dependencies": []
+    },
+    "Art Shenanigans/Art Notes.canvas": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 2163,
+      "exportedPath": "art-shenanigans/art-notes.html",
+      "dependencies": []
+    },
+    "Art Shenanigans/Art Style Overall.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 613,
+      "exportedPath": "art-shenanigans/art-style-overall.html",
+      "dependencies": []
+    },
+    "Art Shenanigans/Dreamer Outfits.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 277,
+      "exportedPath": "art-shenanigans/dreamer-outfits.html",
+      "dependencies": []
+    },
+    "Body System.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 806,
+      "exportedPath": "body-system.html",
+      "dependencies": []
+    },
+    "Dialogue.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 462,
+      "exportedPath": "dialogue.html",
+      "dependencies": []
+    },
+    "Exile Terminals.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 469,
+      "exportedPath": "exile-terminals.html",
+      "dependencies": []
+    },
+    "Grist.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 0,
+      "exportedPath": "grist.html",
+      "dependencies": []
+    },
+    "Kiddie Camper Handysash.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 102,
+      "exportedPath": "kiddie-camper-handysash.html",
+      "dependencies": []
+    },
+    "Roleplay.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 1357,
+      "exportedPath": "roleplay.html",
+      "dependencies": []
+    },
+    "SBURB.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 302,
+      "exportedPath": "sburb.html",
+      "dependencies": []
+    },
+    "Sylladex.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 877,
+      "exportedPath": "sylladex.html",
+      "dependencies": []
+    },
+    "Terrain.md": {
+      "modifiedTime": 1736052118935,
+      "sourceSize": 848,
+      "exportedPath": "terrain.html",
       "dependencies": []
     }
   }

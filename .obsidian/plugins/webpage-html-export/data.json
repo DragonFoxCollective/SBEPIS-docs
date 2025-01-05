@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "C:\\\\Users\\Hellh\\Documents\\SBEPIS-docs\\docs",
+  "exportPath": "/home/jwright159/Documents/SBEPIS Docs/docs",
   "filesToExport": [
     [
       "Alchemy",
