@@ -1,6 +1,6 @@
 {
   "vaultName": "SBEPIS Documentation",
-  "lastExport": 1736052118935,
+  "lastExport": 1739308091679,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -14,6 +14,20 @@
     "Art Shenanigans/Art Notes.canvas",
     "Art Shenanigans/Art Style Overall.md",
     "Art Shenanigans/Dreamer Outfits.md",
+    "Classpect Powers/Classpect Powers.excalidraw.md",
+    "Classpect Powers/Pasted Image 20250211145918_577.png",
+    "Classpect Powers/Pasted Image 20250211145918_593.png",
+    "Classpect Powers/Pasted Image 20250211145918_611.png",
+    "Classpect Powers/Pasted Image 20250211145918_616.png",
+    "Classpect Powers/Pasted Image 20250211145918_618.png",
+    "Classpect Powers/Pasted Image 20250211145918_621.png",
+    "Classpect Powers/Pasted Image 20250211145918_624.png",
+    "Classpect Powers/Pasted Image 20250211145918_626.png",
+    "Classpect Powers/Pasted Image 20250211145918_628.png",
+    "Classpect Powers/Pasted Image 20250211145918_629.png",
+    "Classpect Powers/Pasted Image 20250211145918_629_0.png",
+    "Classpect Powers/Pasted Image 20250211145918_630.png",
+    "Classpect Powers/Pasted Image 20250211145918_631.png",
     "Entities/Training Dummy.md",
     "Entities/Training Imp.md",
     "The Fray/Bar.md",
@@ -24,7 +38,6 @@
     "The Fray/The Fray.md",
     "The Fray/Time Signature.md",
     "Body System.md",
-    "Classpect Powers.excalidraw",
     "Combat.md",
     "Dialogue.md",
     "Exile Terminals.md",
@@ -35,6 +48,8 @@
     "Milestone 2 Goals.canvas",
     "Roleplay.md",
     "SBURB.md",
+    "Schmovement.md",
+    "Schmovement State.canvas",
     "Story Beats System.canvas",
     "Sylladex.md",
     "Terrain.md",
@@ -52,7 +67,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -83,7 +98,7 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/6155340132a851f6089e.svg",
     "lib/html/file-tree.html",
     "lib/scripts/webpage.js",
     "lib/scripts/graph-view.js",
@@ -107,85 +122,85 @@
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
@@ -203,85 +218,85 @@
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1736052118935,
-      "sourceSize": 14221,
+      "modifiedTime": 1739308091679,
+      "sourceSize": 20837,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1736052118935,
-      "sourceSize": 1884,
+      "modifiedTime": 1739308091679,
+      "sourceSize": 1997,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1736052118935,
-      "sourceSize": 131021,
+      "modifiedTime": 1739308091679,
+      "sourceSize": 137228,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1736052118935,
-      "sourceSize": 236,
+      "modifiedTime": 1739308091679,
+      "sourceSize": 262,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/supported-plugins.css": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 1673,
       "exportedPath": "lib/styles/supported-plugins.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1736052118935,
+      "modifiedTime": 1739308091679,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
@@ -382,12 +397,6 @@
       "exportedPath": "story-beats-system.html",
       "dependencies": []
     },
-    "Classpect Powers.excalidraw": {
-      "modifiedTime": 1736052118935,
-      "sourceSize": 4688071,
-      "exportedPath": "classpect-powers.html",
-      "dependencies": []
-    },
     "AI/Events.md": {
       "modifiedTime": 1736052118935,
       "sourceSize": 321,
@@ -470,6 +479,108 @@
       "modifiedTime": 1736052118935,
       "sourceSize": 848,
       "exportedPath": "terrain.html",
+      "dependencies": []
+    },
+    "Classpect Powers/Classpect Powers.excalidraw.md": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 423567,
+      "exportedPath": "classpect-powers/classpect-powers.excalidraw.html",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_577.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4552,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_577.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_593.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 1990746,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_593.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_611.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4578,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_611.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_616.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4625,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_616.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_618.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4888,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_618.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_621.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4929,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_621.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_624.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4181,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_624.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_626.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4789,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_626.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_628.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 5538,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_628.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_629.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4416,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_629.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_629_0.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4707,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_629_0.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_630.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4364,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_630.png",
+      "dependencies": []
+    },
+    "Classpect Powers/Pasted Image 20250211145918_631.png": {
+      "modifiedTime": 1739305149949,
+      "sourceSize": 4548,
+      "exportedPath": "classpect-powers/pasted-image-20250211145918_631.png",
+      "dependencies": []
+    },
+    "Schmovement.md": {
+      "modifiedTime": 1739308091679,
+      "sourceSize": 1772,
+      "exportedPath": "schmovement.html",
+      "dependencies": []
+    },
+    "Schmovement State.canvas": {
+      "modifiedTime": 1739308091679,
+      "sourceSize": 6287,
+      "exportedPath": "schmovement-state.html",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1739308091679,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []
     }
   }
