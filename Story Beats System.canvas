@@ -9,5 +9,9 @@
 		{"id":"9b237c92b31d2b4e","fromNode":"0b45174a18c8bfc4","fromSide":"bottom","toNode":"84425d5f9a89b431","toSide":"left"},
 		{"id":"4c1161021511dea3","fromNode":"0b45174a18c8bfc4","fromSide":"right","toNode":"f85bb4340533979e","toSide":"top"},
 		{"id":"2063d8fbd384f04b","fromNode":"84425d5f9a89b431","fromSide":"right","toNode":"f85bb4340533979e","toSide":"left"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

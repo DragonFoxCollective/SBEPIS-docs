@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"452b50f1fd765cf9","x":-160,"y":-340,"width":283,"height":400,"type":"text","text":"1. Weapon variety\n\t- Light weapon\n\t- Heavy weapon\n\t- Ranged weapon\n\t- Summoning weapon\n2. Refine weapon timings\n3. Strife specibus\n4. Basic armor\n\t- Includes alchemy\n5. Healing items\n6. One track of music\n\t- Including 3/4 and 4/4"}
+		{"id":"452b50f1fd765cf9","type":"text","text":"1. Weapon variety\n\t- Light weapon\n\t- Heavy weapon\n\t- Ranged weapon\n\t- Summoning weapon\n2. Refine weapon timings\n3. Strife specibus\n4. Basic armor\n\t- Includes alchemy\n5. Healing items\n6. One track of music\n\t- Including 3/4 and 4/4","x":-160,"y":-340,"width":283,"height":400}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

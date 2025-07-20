@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"470f6764cf8d6bb9","x":20,"y":-220,"width":360,"height":500,"type":"group","label":"Ambiguous to TryingToJump"},
-		{"id":"ecbc58d38a16d822","x":-960,"y":-210,"width":343,"height":490,"type":"group","label":"Ambiguous to literally anything that's not TryingToJump"},
-		{"id":"c4a628bb667994cc","x":-460,"y":-200,"width":277,"height":160,"type":"text","text":"### Standing\n\n- [x] Grounded\n- [ ] DI\n- [ ] TryingToJump\n- [ ] TryingToDash"},
-		{"id":"aaf28de3869f5d43","x":-1400,"y":-184,"width":250,"height":489,"color":"6","type":"text","text":"# States\n\nJump (Trigger)\nTryingToJump (bool)\nDI (bool)\nGrounded (bool)\nDash (Trigger)\nTryingToDash (bool)\n"},
-		{"id":"3df69bc87a592621","x":60,"y":-200,"width":280,"height":160,"type":"text","text":"### Standing In Air\n- [ ] Grounded\n- [ ] DI"},
-		{"id":"567a7457baae9a3f","x":60,"y":100,"width":280,"height":160,"type":"text","text":"### Walking In Air\n- [ ] Grounded\n- [x] DI"},
-		{"id":"fcac14469444c560","x":-920,"y":-190,"width":263,"height":140,"color":"5","type":"text","text":"### Jump\n- [x] TryingToJump\n\nRemoves TryingToJump"},
-		{"id":"73f8d8df133a1bb6","x":-460,"y":100,"width":277,"height":160,"type":"text","text":"### Walking\n- [x] Grounded\n- [x] DI\n- [ ] TryingToJump\n- [ ] TryingToDash"},
+		{"id":"470f6764cf8d6bb9","type":"group","x":20,"y":-220,"width":360,"height":500,"label":"Ambiguous to TryingToJump"},
+		{"id":"ecbc58d38a16d822","type":"group","x":-960,"y":-210,"width":343,"height":490,"label":"Ambiguous to literally anything that's not TryingToJump"},
+		{"id":"c4a628bb667994cc","type":"text","text":"### Standing\n\n- [x] Grounded\n- [ ] DI\n- [ ] TryingToJump\n- [ ] TryingToDash","x":-460,"y":-200,"width":277,"height":160},
+		{"id":"aaf28de3869f5d43","type":"text","text":"# States\n\nJump (Trigger)\nTryingToJump (bool)\nDI (bool)\nGrounded (bool)\nDash (Trigger)\nTryingToDash (bool)\n","x":-1400,"y":-184,"width":250,"height":489,"color":"6"},
+		{"id":"3df69bc87a592621","type":"text","text":"### Standing In Air\n- [ ] Grounded\n- [ ] DI","x":60,"y":-200,"width":280,"height":160},
+		{"id":"567a7457baae9a3f","type":"text","text":"### Walking In Air\n- [ ] Grounded\n- [x] DI","x":60,"y":100,"width":280,"height":160},
+		{"id":"fcac14469444c560","type":"text","text":"### Jump\n- [x] TryingToJump\n\nRemoves TryingToJump","x":-920,"y":-190,"width":263,"height":140,"color":"5"},
+		{"id":"73f8d8df133a1bb6","type":"text","text":"### Walking\n- [x] Grounded\n- [x] DI\n- [ ] TryingToJump\n- [ ] TryingToDash","x":-460,"y":100,"width":277,"height":160},
 		{"id":"2cad836993db33af","type":"text","text":"### Jump\n- [x] TryingToJump\n\nRemoves TryingToJump","x":-920,"y":100,"width":263,"height":160,"color":"5"},
-		{"id":"a30257c5d5f0eaf8","x":-446,"y":360,"width":250,"height":60,"type":"text","text":"Gravity Off"},
-		{"id":"15e5ea840db704b5","x":-446,"y":500,"width":250,"height":60,"type":"text","text":"### Dash\n"}
+		{"id":"a30257c5d5f0eaf8","type":"text","text":"Gravity Off","x":-446,"y":360,"width":250,"height":60},
+		{"id":"15e5ea840db704b5","type":"text","text":"### Dash\n","x":-446,"y":500,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"6d73193aa09336fe","fromNode":"c4a628bb667994cc","fromSide":"left","toNode":"fcac14469444c560","toSide":"right","fromEnd":"arrow","label":"TryingToJump"},
@@ -21,5 +21,9 @@
 		{"id":"2ac0b344a613d89e","fromNode":"73f8d8df133a1bb6","fromSide":"top","toNode":"c4a628bb667994cc","toSide":"bottom","fromEnd":"arrow","label":"DI"},
 		{"id":"739754b0ff939d98","fromNode":"73f8d8df133a1bb6","fromSide":"bottom","toNode":"a30257c5d5f0eaf8","toSide":"top"},
 		{"id":"865772f5f2d1579c","fromNode":"a30257c5d5f0eaf8","fromSide":"bottom","toNode":"15e5ea840db704b5","toSide":"top"}
-	]
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

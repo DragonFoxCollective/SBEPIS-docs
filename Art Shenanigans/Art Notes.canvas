@@ -14,5 +14,9 @@
 		{"id":"c9686f5b1c1a8077","type":"file","file":"Art Shenanigans/Dreamer Outfits.md","x":250,"y":-680,"width":400,"height":400,"color":"2"},
 		{"id":"03fce76926368b1b","type":"text","text":"- Hiveswap: Backgrounds in ACT 1 and the concept art for ACT 2, Specific assets\n- PesterQuest: The character sprites, somewhere between anime and homestuck's art\n- Atlas: But softer","x":-210,"y":-1079,"width":560,"height":163}
 	],
-	"edges":[]
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
 }

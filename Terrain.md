@@ -10,4 +10,12 @@ However, this might not be very usable for things that fall off-grid or are too 
 
 The other option is to forego a grid entirely and operate directly on mesh data. This might be more usable for SBURB since you can alter orientation and length however you might need to. This also has the benefit of allowing objects to be physics-compatible, since they don't need to adhere to a grid.
 
-However, this is known for being very slow... unless we can find a way around that.
+However, this is known for being very slow... unless we can find a way around that.![[Untitled Diagram.svg]]
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.7.19 - 18.07pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
