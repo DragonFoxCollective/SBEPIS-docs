@@ -1,0 +1,3 @@
+The Session Master is a moderator and game master of a given session, with control over some major aspects of play, such as which players are allowed connection to a session, ultimate say over [[Session Settings]] and textually treated as somewhat important among the [[Exiles]]. Any player is able to become a Session Master if given access to the [[Command Station]] by existing Session Masters.
+
+Session Masters are able to grant or revoke access to players seeking to use a given [[Command Station|Command Station's]] [[Command Terminal]]

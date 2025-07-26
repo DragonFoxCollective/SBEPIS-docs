@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"21839ec279772b82","type":"file","file":"Index/Interaction/Entities/Training Dummy.md","x":-500,"y":140,"width":400,"height":400},
+		{"id":"c9cc265b66bbe194","type":"text","text":"Player picks time signatures","x":260,"y":620,"width":280,"height":60},
+		{"id":"82f66b2c1b4c1b7c","type":"text","text":"Detects if player is using a time signature, either imp's or their own","x":260,"y":700,"width":280,"height":100},
+		{"id":"e50d8d559d6a2d09","type":"text","text":"# Goals\n1. [[Dialogue]]\n2. [[Combat]]\n\t1. [[Combat#Momentum/Movement|Movement-based Combat]]\n3. [[The Fray]]'s [[The Fray#Rhythm|Rhythm]]","x":-210,"y":-140,"width":380,"height":200},
+		{"id":"3ee799ebc3efcfa8","type":"text","text":"Light/heavy attacks that follow the timing with a different number of beats","x":260,"y":820,"width":280,"height":100},
+		{"id":"dbbf7b6f25867fd5","type":"file","file":"Index/Interaction/Entities/Training Imp.md","x":60,"y":140,"width":400,"height":400},
+		{"id":"b9837e06a8482b8b","type":"text","text":"Recovery animation takes the rest of the current beat","x":260,"y":935,"width":280,"height":85},
+		{"id":"7c022f304a436086","type":"text","text":"Heavy attacks are a half note","x":600,"y":875,"width":294,"height":60},
+		{"id":"65f5a756d94ebd38","type":"text","text":"Light attacks are a quarter note","x":600,"y":803,"width":294,"height":57},
+		{"id":"53ed7b8cce2061bc","type":"text","text":"4/4","x":620,"y":590,"width":100,"height":60},
+		{"id":"450fbab0782b6bad","type":"text","text":"3/4","x":620,"y":650,"width":100,"height":60},
+		{"id":"15f4879a3a18c04b","type":"file","file":"Index/Combat/The Fray/The Fray.md","x":-220,"y":620,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"60b1225feb87ab03","fromNode":"15f4879a3a18c04b","fromSide":"right","toNode":"c9cc265b66bbe194","toSide":"left"},
+		{"id":"80a01fbd1759c10a","fromNode":"15f4879a3a18c04b","fromSide":"right","toNode":"82f66b2c1b4c1b7c","toSide":"left"},
+		{"id":"1b8205d491ba4ac5","fromNode":"e50d8d559d6a2d09","fromSide":"bottom","toNode":"21839ec279772b82","toSide":"top"},
+		{"id":"62bc71037ad534db","fromNode":"e50d8d559d6a2d09","fromSide":"bottom","toNode":"dbbf7b6f25867fd5","toSide":"top"},
+		{"id":"5baf3d50443aa733","fromNode":"e50d8d559d6a2d09","fromSide":"bottom","toNode":"15f4879a3a18c04b","toSide":"top"},
+		{"id":"420f66c6481b551a","fromNode":"15f4879a3a18c04b","fromSide":"right","toNode":"3ee799ebc3efcfa8","toSide":"left"},
+		{"id":"f7ef36a64c639ba8","fromNode":"c9cc265b66bbe194","fromSide":"right","toNode":"53ed7b8cce2061bc","toSide":"left"},
+		{"id":"6c8aa85dbecf7076","fromNode":"c9cc265b66bbe194","fromSide":"right","toNode":"450fbab0782b6bad","toSide":"left"},
+		{"id":"97abe8b68ca67c5c","fromNode":"3ee799ebc3efcfa8","fromSide":"right","toNode":"65f5a756d94ebd38","toSide":"left"},
+		{"id":"1ae220bb04a9de01","fromNode":"3ee799ebc3efcfa8","fromSide":"right","toNode":"7c022f304a436086","toSide":"left"},
+		{"id":"b69817551d6d47f6","fromNode":"15f4879a3a18c04b","fromSide":"right","toNode":"b9837e06a8482b8b","toSide":"left"}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -1,1 +1,0 @@
-This is essentially the achievement repository. Some achievements grant boons, similar to Gift of Gab.

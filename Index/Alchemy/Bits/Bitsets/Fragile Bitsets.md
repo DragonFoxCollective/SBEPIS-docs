@@ -1,0 +1,1 @@
+Fragile Bitsets describe objects that break in specific ways. I.E. Smashing a bottle to glass someone, snapping an object in half at a weak point.

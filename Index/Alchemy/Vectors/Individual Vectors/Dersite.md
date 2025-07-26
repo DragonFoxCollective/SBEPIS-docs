@@ -1,0 +1,1 @@
+The [[Vector]] associated with the [[Dersite Item Pool]] and [[Dersite Material Properties]]. Tied heavily to oppression, poverty, subterfuge and fascism thematically. 

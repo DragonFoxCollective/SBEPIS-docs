@@ -1,0 +1,1 @@
+Co-Players are players that are placed with access to the same [[Command Terminal]] at once, granting unique control to these players over the ways they play in game. These characters include but are not limited to Duel Dreamers, Shared bodies and the ability to have a waking dreamself in tandem to the waking self acting at once.
