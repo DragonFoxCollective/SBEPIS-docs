@@ -1,3 +1,6 @@
+
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. Not much left is required to finish this doc. #WIP #Current 
+
 A Command Station is a player's homebase in the OOC lobby, this is a private base they can grant other players access to, connected to a room that contains the [[Command Terminal]]. Players are not granted access to their [[Command Terminal]] until [[Session Settings]] have been finalised by a [[Session Master]]. Players can allow people different levels of access to their  Command Station, with basic access allowing them into the Command Station itself, to show off their space, middling access allowing them into the [[Command Terminal]] as a spectator and maximum access granting other players control of the [[Command Terminal]].
 
 The Command Station holds a basic terminal which houses most of the basic settings, with the menu not being able to be opened as normal from this space. The way players quit is to either sleep in a bed the [[Exiles]] make in the Command Station or to return to the [[Command Terminal]] and quit from there. Exiles not controlled by an active player will sleep in the Command Station until the player's return.

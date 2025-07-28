@@ -12955,6 +12955,45 @@ tags:
 				"typeName": "shape"
 			},
 			{
+				"x": 552.6181213985434,
+				"y": -168.12612749378343,
+				"rotation": 0,
+				"isLocked": false,
+				"opacity": 1,
+				"meta": {},
+				"id": "shape:7BRNSIQ8E2-38AvMd7NiF",
+				"type": "text",
+				"props": {
+					"color": "black",
+					"size": "m",
+					"w": 214.7291717529297,
+					"font": "draw",
+					"textAlign": "start",
+					"autoSize": true,
+					"scale": 1,
+					"richText": {
+						"type": "doc",
+						"content": [
+							{
+								"type": "paragraph",
+								"attrs": {
+									"dir": "auto"
+								},
+								"content": [
+									{
+										"type": "text",
+										"text": "#outdated #wip"
+									}
+								]
+							}
+						]
+					}
+				},
+				"parentId": "page:page",
+				"index": "ao6LN",
+				"typeName": "shape"
+			},
+			{
 				"x": 132.98699927168417,
 				"y": 795.1873900139395,
 				"rotation": 0,

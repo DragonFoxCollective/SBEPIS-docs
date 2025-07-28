@@ -1,3 +1,6 @@
+
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current 
+ 
  The [[Byte]] associated with the [[Midnight Crew Item Pool]] and [[Midnight Crew Material Properties]]. Tied heavily to the imagery of the midnight crew, encompassing playing cards, noir, mafias and crime. Often closely bound to the [[Dersite]] [[Byte]] and [[Dreamer]] [[Byte|Bytes]]. Majority of this item pool is themed around mafia activity and gambling with sleek black materials with white and red accents.
 
 | Bit             | Part Descriptions                                                                                                                                                                                   |

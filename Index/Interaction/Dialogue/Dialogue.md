@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Major aspects of this note are outdated and missing important context. #WIP #Outdated 
+
 The dialogue system uses the [[Roleplay]] system to generate text based on NPCs' personalities and potential responses based on the players' personalities.
 
 Emotional or objective context may be changed by using the [[Combat#Stances|Stance Wheel]] prior to engaging in dialogue.

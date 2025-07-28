@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Major aspects of this note are outdated and missing important context. #WIP #Outdated 
+
 The old sylladex used a literal deck of cards with a holographic table. While *very cool*, this has usability issues, since you need space to lay everything out and to throw the deck.
 
 The new sylladex is a digital interface on an arm-mounted holographic device. This allows us to use literal cartridges again, while having a compact and still-vaguely-diagetic inventory.

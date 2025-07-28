@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Major aspects of this note are outdated and missing important context. #WIP #Outdated 
+
 TLDR a hand-made neural network.
 # Personal Values
 Various traits that an agent possesses, like how Jack likes stabbing people, Leave No Witnesses, freedom, finding a hot dame.

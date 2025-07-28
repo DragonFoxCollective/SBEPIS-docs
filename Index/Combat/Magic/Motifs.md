@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current 
+
 Motifs are the spell components. Starting with a certain motifs makes that music phrase be that spell.
 
 Playing things that aren't motifs increases a number in the spell. Casting spells that require specific large numbers is long and hard, so representing specific locations can be done by unlocking certain motifs for game-centric locations (like the battlefield), through imbuing data into sentimental items, or something like picking up a rock and later recalling where that rock originally was.

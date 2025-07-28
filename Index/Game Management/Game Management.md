@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current 
+
 In SBEPIS majority of the UI and gamification is diegetic to players, however, some menus require the use of more traditional forms of UI to present this information with ease and clarity across control schemes. [[Exiles]] act as the bridge to make more traditional UI and game elements diegetic, such as game setup, multiplayer lobbies, and in game information tracking that doesn't make sense to show in the base game without alterations.
 
 This page will not showcase all the ways [[Exiles]], [[Command Station|Command Stations]] and [[Command Terminal|Command Terminals]] are used for this, but rather how game management is handled specifically, covering save management, multiplayer connections, settings menus, game setup and session moderation broadly.

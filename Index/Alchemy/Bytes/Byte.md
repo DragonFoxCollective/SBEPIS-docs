@@ -1,3 +1,6 @@
+
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current 
+
 A Byte is a type of information stored in items that describes the appearances, stats, bonuses and synergy focused abilities items are able to contain. Bytes exist on a scale of 0-100, with the number of a correlating to the stat progression of alchemised items, the aesthetic leaning of an object in regards to which [[Part]] pools it pulls from, and broadly properties of an item that would not be form defining in nature. Vectors also define physical properties of objects in synergistic ways, such as weight or density. This will mean Vectors in combination with [[Bit|Bits]] will comprise key functions within the physics system. Each tag has its own grist cost, with the upper limit cost corresponding with a magnitude of 100.
 
 Bytes have a total range of 0-255, and are unable to expand beyond this total without reducing an existing Byte.

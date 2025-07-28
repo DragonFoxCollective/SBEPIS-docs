@@ -1,1 +1,3 @@
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current 
+
 A Part in a unique mesh, linked to [[Bit||Bits]], [[Tag|Tags]] and [[Byte|Bytes]] in different ways that form an overall item via [[Alchemy]]. A [[Bit]] will open the use of Parts under a given [[Bit]], same applies to a [[Bitset]], for example, the [[Weighted]] [[Bit]] will allow a part to be part of the pool associated with the [[Weighted Item Pool]]. Similarly, a [[Byte]] will do the same, determining which [[Byte]] part pool items can be pulled from, for example, the [[Midnight]] [[Byte]] will allow for items to pull from [[Midnight Crew Item Pool]] .

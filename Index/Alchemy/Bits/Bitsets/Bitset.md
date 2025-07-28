@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current
+
 A bit set is able to define emergent properties of objects with certain combinations of bits. Below are some of the bit sets so far.
 
 | Original Bits                                                | Emergent Bitsets                 | Items         |

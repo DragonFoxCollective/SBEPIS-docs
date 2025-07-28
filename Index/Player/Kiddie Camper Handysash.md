@@ -1,1 +1,3 @@
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current
+
 The Kiddie Camper Handysash is a booklet and sash of challenges and achievements a player can overcome, completing them unlocks points to spend in the [[Advancement Database]] for the player across campaigns and unlocks [[Perks]] for a player in a given campaign. Players can turn perks unlocked via the Kiddy Camper Handysash by applying a patch to their sash. Players can wear the sash to show off their achievements to other players.

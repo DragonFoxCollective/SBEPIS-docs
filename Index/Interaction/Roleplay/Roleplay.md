@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Major aspects of this note are outdated and missing important context. #WIP #Outdated 
+
 Named after the [Roleplay System](https://archiveofourown.org/works/340777/chapters/685537) from [SBURB Glitch FAQ](https://archiveofourown.org/works/340777/chapters/551606), the roleplay system both grasps each player character's identity and ensures that the players play according to the characters they've created.
 
 For example, the system determines that a character should be a knight of life based on NPC interactions and playstyle. From this, their life-based spells such as healing or sapping are more effective in combat and less effective elsewhere.

@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Major aspects of this note are outdated and missing important context. #WIP #Outdated 
+
 A generated event involving at least one aggressor, one target, and a combat goal. Combat participation is optional. Combat will begin when initiated by a single party, and [[#Teams and Combatants|combatants]] involved will be assigned depending on various traits. Combat will not be restricted to [[Event Chunk|Event Chunks]], but will aim to fit within them. When an entity becomes aware of an aggressor, they will be prompted to [[#Strife]] or [[#Abscond]].
 
 [[The Fray]] will inform how combat is approached by setting the pace and difficulty of a battle. Enemies will tend to attack on [[Beat]], although they may have different [[Tempo|Tempos]]. [[#Swarmers]] will adjust the Tempo according to factional relationships. [[#Commanders]] can set the Tempo for the Swarmers they lead, such as Waltz Time or Common Time.

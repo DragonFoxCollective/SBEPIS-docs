@@ -1,3 +1,6 @@
+
+This page is a Work In Progress and needs to be expanded on. Major aspects of this note are outdated and missing important context. #WIP #Outdated 
+
 We have two main options on how terrain may be generated.
 
 # Marching Cubes

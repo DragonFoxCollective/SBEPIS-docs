@@ -1,3 +1,6 @@
+
+This page is a Work In Progress and needs to be expanded on. Information is out date and potentially incomplete. #WIP #Outdated
+
 Alchemy is a core mechanic.
 
 In SBEPIS, items are stored within item cards. Items have identifiers correlating to when a player “discovered” the recipe.

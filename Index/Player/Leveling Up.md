@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current
+
 On every echeladder rung and every god tier, the player gains stat points to put into a variety of stats.
 
 Every so often, an echeladder rung (but not god tiers) grants a perk, which is a powerful game-changing synergistic bonus.

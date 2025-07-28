@@ -1,3 +1,5 @@
+This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current 
+
 Fraymotifs (spells) have their own slots in the strife portfolio. Each slot type corresponds to some type of recording medium, eg. records, CDs, tapes, sheet music, etc. Each type provides a different casting effectiveness buff based on spell type, like offensive, defensive, or utility. Media may be placed in differing slots, but will lose their casting bonus. Players only get one type they must pick, similar to strife specibi. Players can assign fraymotifs with a dukebox.
 
 Dungeon rewards may include clean casting media or etched media for a slot type the given player doesn't have, but shops will always have etched media for the correct slot type.
