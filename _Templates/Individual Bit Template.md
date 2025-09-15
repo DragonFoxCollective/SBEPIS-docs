@@ -16,9 +16,9 @@ How this bit reshapes the visual appearance or form of an object. How a bit alte
 ### Common Forms
 
 Examples of forms this bit will often take when used in alchemy when used alone or in combination with other forms. 
-### Bitset Specific Forms
+### Byte Specific Forms
 
-Examples of Bitset Specific forms the object will are of note for a given bit.
+Examples of Byte Specific forms the object will are of note for a given bit.
 
 ## Inventory
 

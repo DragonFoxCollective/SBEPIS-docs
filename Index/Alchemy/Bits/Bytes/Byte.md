@@ -1,8 +1,8 @@
 This page is a Work In Progress and needs to be expanded on. Information is up to date, but incomplete. #WIP #Current
 
-A bit set is able to define emergent properties of objects with certain combinations of bits. Below are some of the bit sets so far.
+A byte is able to define emergent properties of objects with certain combinations of bits. Below are some of the bytes so far.
 
-| Original Bits                                                | Emergent Bitsets                 | Items         |
+| Original Bits                                                | Emergent Bytes                   | Items         |
 | ------------------------------------------------------------ | -------------------------------- | ------------- |
 | [[Logical]] + [[Sensing]]                                    | [[Percieving]]                   | Scrying Orb   |
 | [[Logical]] + [[Possessed]]                                  | [[Sentience]]                    | Ghost         |
@@ -19,4 +19,4 @@ A bit set is able to define emergent properties of objects with certain combinat
 | [[Decorative]] + [[Hollow]] + [[Pliant]] + [[Lightweight]]   | [[Accessories]]                  | Ring          |
 
 
-Bit sets are also, naturally, subject to change.
+Bytes are also, naturally, subject to change.
